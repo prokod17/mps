@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mom-plot-search/static/css/main.f9223dfc.css",
+    "main.js": "/mom-plot-search/static/js/main.5ee015ed.js",
+    "index.html": "/mom-plot-search/index.html",
+    "main.f9223dfc.css.map": "/mom-plot-search/static/css/main.f9223dfc.css.map",
+    "main.5ee015ed.js.map": "/mom-plot-search/static/js/main.5ee015ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9223dfc.css",
+    "static/js/main.5ee015ed.js"
+  ]
+}
