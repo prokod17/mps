@@ -39,7 +39,7 @@ export const MomPlots = () => {
     <div className="main-div">
       <h1 id="topPage">Million on Mars</h1>
       <h2>AtomicHub</h2>
-      <h2>Plot search by building</h2>
+      <h2>< Plot search by building ></h2>
 
       <div className="credits">
         <p>Created by Huichoman </p>
