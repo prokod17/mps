@@ -67,6 +67,7 @@ export const FilterBuilding = ({ onNewBuilding, onNewRarity }) => {
           <option value="smelter">smelter</option>
           <option value="solar_panel">solar_panel</option>
           <option value="teashop">teashop</option>
+          <option value="thorium-reactor">thorium-reactor</option>
           <option value="training_hall">training_hall</option>
           <option value="water_filter">water_filter</option>
         </select>
